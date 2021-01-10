@@ -1,0 +1,16 @@
+Your identification has been saved in /c/Users/amath/.ssh/id_ed25519
+Your public key has been saved in /c/Users/amath/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:K6PElrhjU33zW0rNj0yH2CgJq7ZYaEjnr0gi5+uYkAc amathu01@hotmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|                 |
+|                 |
+|                 |
+|                 |
+|E. . .. S        |
+|.+o+...ooo * .   |
+|*.*o* +.+o+ B .  |
+|=B=*oo o o.= +   |
+|o+**=o    o.o .  |
++----[SHA256]-----+
